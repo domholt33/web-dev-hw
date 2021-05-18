@@ -1,4 +1,4 @@
 The web is different from the internet because the web connects information to other information while the internet connects people to people and information.
 The internet is a network of cables that can transmit light signals from one location to another. Connected to the main stream of the internet are servers which provide local access to the internet. A person may use an internet service provider to connect to a server, the server will connect them to the internet, and that information will be sent to a different server to provide the connection that the individual desires.
 A directory is a parent file to multiple related files. Directories are used to better organize files and information.
-A VCS helps you track the history and changes made to a file system which can aid with trouble shooting mistakes.
+A VCS helps you and anyone you colaborate with to work on a file simultaneously without issues.
