@@ -1,1 +1,5 @@
 My Responses:
+One way that information travels through the internet is by codes of 0's and 1's called "on off" codes. It is depicted through light transmitted by a fiberoptic cables.
+An IP address stands for internet protocol address. It is a specific number assigned to a device and it tells other computers and servers the address to bet information back to.
+A cookie is a code that lets the server know who you are and that you have the authorization to access the information that you are requesting.
+The three basic parts of a URL are the protocol, domains, and the path.
