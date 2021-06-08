@@ -1,0 +1,5 @@
+#Assignment 6
+
+1. I most commonly run into forms for ID and passwords. With having a school account, bank account, and other important website information, we regularly are required to input our protective information and submit it to receive our private information.
+2. Selection inputs can be used for multiple choice online exams. It van also be used for surveys, online food orders, and delivery options when ordering items online. Text entries can be used to gather feedback such as comments on social media posts or in surveys where a name or email input is required. Button inputs are used in subscribing to email links, submitting information such as passwords, and submitting a finished assignment for a class.
+3. To begin this assignment, I referenced assignment 5 to complete all of the head elements. I am grateful to have access to previous files since most of the methods have specific structures and It is nice to see how it was previously done. Before I started the form and table elements I watched the walkthrough and created the skeleton of what would later become the assignment. I found this to be a useful strategy.
