@@ -6,21 +6,68 @@
     <meta name="description" content="This is assignment 5 which is teaching us markup.">
     <meta name="author" content="Dominique Holt">
   <title>Assignment 6</title>
+  <style>
+  table, td{border: 1px solid black}</style>
 </head>
 
 <body>
+  <h1> Board of Missoula</h1>
+  <address>
+  618 S. Higgins Ave<br>
+Missoula, MT<br>
+59801
+</address>
+  <a href=mailto:"boardofmissoula@gmail.com" >Email:boardofmissoula@gmail.com</a>
+<br>
+<br><br>
 <table>
+  <tr>
+
+    <th>About</th>
+
+  </tr>
 <tr>
-<td>One</td>
+
+<td>Hours of Operation</td>
+<td>10AM-7PM Mon-Sat<br>
+10AM-5PM Sun</td>
+
 </tr>
 <tr>
-<td>Two</td>
+<td>Phone Number</td>
+<td>(406)721-7774</td>
+
 </tr>
 <tr>
-<td>Three</td>
+<td>Website</td>
+<td> <a href="https://boardofmissoula.com">https://boardofmissoula.com</a> </td>
+
 </tr>
 
 
 </table>
+<br><br>
+
+<form action="https://example.com/registration" method="post">
+  What is your first name:
+<input type="text" name="firstname" maxlength="15">
+<br>
+<form action="https://example.com/registration" method="post">
+  What is your favorite skateboarding brand?<br>
+  <input type="radio" name="brand" value="Baker">Baker
+<input type="radio" name="brand" value="Element">Element
+<input type="radio" name="brand" value="Independent">Independent
+<input type="radio" name="brand" value="Birdhouse">Birdhouse
+
+
+<br><br>
+Enter your comments below:
+<br>
+<textarea cols="35" rows="10">
+  comments...
+</textarea>
+<br><br>
+<input type="button" value="Submit">
+  </form>
 </body>
 </html>
