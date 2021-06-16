@@ -1,0 +1,5 @@
+#Assignment 8
+
+1. I have never had experience with HTML before so all of the information that was taught was new to me. I picked up on the main elements of HTML and the basic formatting for creating paragraphs and divs was easy to pick up on and use throughout the assignments. It was somewhat difficult to learn the formatting in the head when it was first introduced but after using it for a couple of assignments it became fun and exciting to use and play around with.
+2. I am very excited to learn how to style and decorate a website to make it stand out more than a piece of paper. I am nervous that CSS will be more complicated that HTML to learn but I am hoping that repetition will help me with learning it just like it did in HTML.
+3. I felt very comfortable with this larger assignment because I was able to reference the previous assignments and saved a lot of time typing out full codes. I found that once I knew how to tweak and adjust things I started to get almost too picky with how the sight began to form and look.
