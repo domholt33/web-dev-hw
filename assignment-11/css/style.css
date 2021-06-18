@@ -9,7 +9,7 @@ h1{color: blue;}
   text-align: center;}
 
 }
-.navigation a {
+.navigation  {
   color: #FFF;
   text-decoration: none;
 }
@@ -22,16 +22,38 @@ h1{color: blue;}
   margin: 10px 20px 10px 10px;
   float: left;
 
-  border-radius: 100%;
+  ;
 
   line-height: 40px;
   color: #000;
   text-transform: uppercase;
   font-size: 8pt;
 }
+.design{position: absolute;left:300px;top:320px;}
 
+.container{align:center;background-color: grey; height:500px;width:700px;position:absolute;bottom:500;right:400px;}
 
+.container p{font-size: 20px; text-align: center;color: white; font-style: oblique;font-weight: bolder;}
+.content{margin-top:600px ;margin-left:300px;margin-right:300px; }
 
-.nav{position: fixed;top: 0;width:100%;background-color: black;opacity:.9;}
+.title{color: white;font-size:35px; text-align: left; position:absolute;top:30px;left:90px; }
 
-#navhead{color: white;}
+ .links a{color:white; float:right; padding:0 2em; font-size:30px; display: inline-block;margin-top:20px; }
+.links a:hover{background-color:grey;padding:20px;border-radius: 100px;}
+a{color:white;}
+
+.nav{position: fixed;top: 00;width:100%;background-color: black;opacity:.9;}
+
+.main{text-align: left;padding-left: 600px;margin-top: 550px}
+
+.contact{margin:auto; text-align:center;}
+
+.navhead{color: white;font-size:30px; text-align: left; line-height: ;}
+
+.submit:hover{outline-color: blue;outline-width: thick;background: blue; padding:5px;}
+
+.shop{text-align: center;margin-top:600px ;}
+.shop h1{color:black; }
+
+.member{text-align: center;margin-top:600px ;}
+.member h1{color:black; }
