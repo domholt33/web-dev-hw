@@ -1,4 +1,4 @@
-#Assignment 12#
+#Assignment 12
 
 1. My client was a donut shop owner who wanted a fun and interactive way to advertise their donuts.
 2. Display block stacks things one on top of the other. Inline keeps the items in a line without any inherent lines between them and inline block keeps them in line but separated by a margin.
